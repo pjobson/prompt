@@ -19,7 +19,7 @@
   ],
   "dependencies": {
     "colors": "^1.1.2",
-    "read": "1.0.x",
+    "read": "git+https://github.com/pjobson/read.git",
     "revalidator": "0.1.x",
     "utile": "0.3.x",
     "winston": "2.x"
