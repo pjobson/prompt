@@ -1,6 +1,6 @@
 # prompt [![Build Status](https://secure.travis-ci.org/flatiron/prompt.svg)](http://travis-ci.org/flatiron/prompt)
 
-A beautiful command-line prompt for node.js
+Fork of prompt, reduced set of features.
 
 ## Features
 
